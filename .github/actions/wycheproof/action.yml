@@ -9,4 +9,4 @@ runs:
       with:
         repository: "google/wycheproof"
         path: "wycheproof"
-        ref: "master"
+        ref: "main"
